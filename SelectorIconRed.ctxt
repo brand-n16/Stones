@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SelectorIconRed
+comment1.params=relativeSize
+comment1.target=SelectorIconRed(double)
+comment2.params=g2\ width\ height
+comment2.target=void\ renderImage(java.awt.Graphics2D,\ int,\ int)
+numComments=3
